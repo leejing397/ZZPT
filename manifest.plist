@@ -11,31 +11,31 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/ZZPT.ipa?</string>
+					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/ZZPT.ipa?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-57.png</string>
+					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-57.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string> https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-512.png</string>
+					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-512.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>www.gxsn.ZZPT<string>
+				<string>com.gxsn.GreatWall</string>
 				<key>bundle-version</key>
-				<string>1.0.2</string>
+				<string>1.0.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>综治平台</string>
+				<string>GreatWall</string>
 			</dict>
 		</dict>
 	</array>
