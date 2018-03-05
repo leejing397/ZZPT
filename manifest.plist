@@ -23,11 +23,8 @@
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-<<<<<<< HEAD
 					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-512.png?raw=true</string>
-=======
-					<string> https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-512.png?raw=true</string>
->>>>>>> 9e5cd9d70c1c803457b2248b1b80340fa3e85523
+
 				</dict>
 			</array>
 			<key>metadata</key>
