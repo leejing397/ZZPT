@@ -11,31 +11,23 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-<<<<<<< HEAD
-					<string>https://gitee.com/darlun/GeoPublish/raw/master/2018/fengtai/ZZPT.ipa</string>
-=======
+
 					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/ZZPT.ipa</string>
->>>>>>> f978d451265f5c14ac1b17d4ba98f240aabbc535
+
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>display-image</string>
-					<key>url</key>
-<<<<<<< HEAD
-					<string>https://gitee.com/darlun/GeoPublish/raw/master/2018/fengtai/icon-57.png</string>
-=======
+
 					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-57.png</string>
->>>>>>> f978d451265f5c14ac1b17d4ba98f240aabbc535
+
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-<<<<<<< HEAD
-					<string>https://gitee.com/darlun/GeoPublish/raw/master/2018/fengtai/icon-512.png</string>
-=======
+
 					<string>https://raw.githubusercontent.com/leejing397/ZZPT/master/icon-512.png</string>
->>>>>>> f978d451265f5c14ac1b17d4ba98f240aabbc535
 				</dict>
 			</array>
 			<key>metadata</key>
